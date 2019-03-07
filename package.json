@@ -1,0 +1,33 @@
+{
+  "name": "@internalfx/arangofs",
+  "version": "0.0.0",
+  "description": "A file storage system for arangoDB databases inspired by GridFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/internalfx/arangofs.git"
+  },
+  "author": "Bryan Morris",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/internalfx/arangofs/issues"
+  },
+  "homepage": "https://github.com/internalfx/arangofs",
+  "dependencies": {
+    "arangojs": "^6.9.0",
+    "bluebird": "^3.5.3",
+    "del": "^3.0.0"
+  },
+  "peerDependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "chai": "^4.2.0",
+    "eslint": "^4.0.0",
+    "eslint-plugin-html": "^4.0.5",
+    "eslint-plugin-vue": "^4.7.1",
+    "standard": "^12.0.1"
+  }
+}
