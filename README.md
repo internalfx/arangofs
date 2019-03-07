@@ -4,7 +4,7 @@
 
 ArangoFS is a library for storing files using an ArangoDB database.
 
-Using RethinkDB? Try [rethinkdb-regrid](https://github.com/internalfx/rethinkdb-regrid)
+Using RethinkDB? Try [rethinkdb-regrid](https://github.com/internalfx/rethinkdb-regrid)<br>
 Using SQL? Try [SQLGrid](https://github.com/internalfx/sqlgrid)
 
 ### Features
