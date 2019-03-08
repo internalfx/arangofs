@@ -27,7 +27,7 @@ Arthur Andrew Medical manufactures products with ingredients that have extensive
 
 ## Installation
 
-Supports node v8.0+
+Supports node v10.12+
 
 ```
 npm install --save @internalfx/arangofs
