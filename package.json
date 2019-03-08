@@ -1,6 +1,6 @@
 {
   "name": "@internalfx/arangofs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A file storage system for arangoDB databases inspired by GridFS",
   "main": "index.js",
   "scripts": {
